@@ -41,7 +41,6 @@ export default {
   &-image {
     display: flex;
     justify-content: center;
-    width: 300px;
   }
   &-info {
     &-items {
