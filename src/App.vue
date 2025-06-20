@@ -21,5 +21,8 @@ export default {
 }
 #app {
   padding: 0 10%;
+  @media (max-width: 1300px) {
+    padding: 0;
+  }
 }
 </style>

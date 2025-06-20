@@ -102,5 +102,9 @@ export default {
   background: #f5f2f2;
   display: flex;
   gap: 24px;
+
+  @media (max-width: 860px) {
+    flex-direction: column;
+  }
 }
 </style>

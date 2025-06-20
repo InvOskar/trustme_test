@@ -22,5 +22,11 @@ export default {
   grid-template-columns: 1fr 1fr 1fr;
   padding: 24px 0;
   gap: 24px;
+  @media (max-width: 860px) {
+    grid-template-columns: 1fr 1fr;
+  }
+  @media (max-width: 540px) {
+    grid-template-columns: 1fr;
+  }
 }
 </style>
