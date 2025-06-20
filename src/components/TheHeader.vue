@@ -2,7 +2,6 @@
   <div class="header">
     <img class="header-logo" src="@/assets/logo_trustme.png" />
     <div class="header-links">
-      <p>+7 777 777 77 77</p>
       <p>Подать объявление</p>
       <p>
         <UserOutlined />
@@ -12,18 +11,19 @@
   </div>
 </template>
 
-<script>
-</script>
+<script></script>
 
 <style scoped lang="scss">
 .header {
   background: #f5f2f2;
-  padding: 0 10%;
+  padding: 8px 16px;
   height: 60px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   margin: auto;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
 
   &-logo {
     height: 90%;

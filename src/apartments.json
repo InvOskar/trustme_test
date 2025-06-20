@@ -1,0 +1,702 @@
+[
+  {
+    "id": 1,
+    "area": 87,
+    "rooms": 3,
+    "address": "ул. Сарыарка, 34, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 2,
+    "area": 62,
+    "rooms": 2,
+    "address": "ул. Бейбітшілік, 39, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 3,
+    "area": 53,
+    "rooms": 3,
+    "address": "ул. Бухар жырау, 193, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 4,
+    "area": 117,
+    "rooms": 2,
+    "address": "ул. Кенесары, 84, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 5,
+    "area": 46,
+    "rooms": 4,
+    "address": "ул. Желтоксан, 196, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 6,
+    "area": 110,
+    "rooms": 2,
+    "address": "ул. Кенесары, 54, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 7,
+    "area": 99,
+    "rooms": 4,
+    "address": "ул. Шарбақты, 174, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 8,
+    "area": 78,
+    "rooms": 1,
+    "address": "ул. Желтоксан, 152, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 9,
+    "area": 39,
+    "rooms": 1,
+    "address": "ул. Мәңгілік Ел, 187, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 10,
+    "area": 37,
+    "rooms": 2,
+    "address": "ул. Сарыарка, 64, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 11,
+    "area": 50,
+    "rooms": 1,
+    "address": "ул. Мәңгілік Ел, 193, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 12,
+    "area": 119,
+    "rooms": 2,
+    "address": "ул. Желтоксан, 127, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 13,
+    "area": 49,
+    "rooms": 2,
+    "address": "ул. Шарбақты, 1, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 14,
+    "area": 98,
+    "rooms": 4,
+    "address": "ул. Республика, 32, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 15,
+    "area": 85,
+    "rooms": 3,
+    "address": "ул. Сыганак, 167, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 16,
+    "area": 78,
+    "rooms": 4,
+    "address": "ул. Абай, 191, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 17,
+    "area": 71,
+    "rooms": 3,
+    "address": "ул. Жангельдина, 52, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 18,
+    "area": 41,
+    "rooms": 5,
+    "address": "ул. Республика, 188, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 19,
+    "area": 75,
+    "rooms": 1,
+    "address": "ул. Туран, 196, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 20,
+    "area": 114,
+    "rooms": 3,
+    "address": "ул. Сыганак, 87, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 21,
+    "area": 82,
+    "rooms": 2,
+    "address": "ул. Есиль, 69, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 22,
+    "area": 46,
+    "rooms": 3,
+    "address": "ул. Абай, 93, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 23,
+    "area": 72,
+    "rooms": 3,
+    "address": "ул. Абылай хана, 10, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 24,
+    "area": 54,
+    "rooms": 1,
+    "address": "ул. Ақсай, 6, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 25,
+    "area": 112,
+    "rooms": 5,
+    "address": "ул. Ақсай, 32, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 26,
+    "area": 106,
+    "rooms": 3,
+    "address": "ул. Кабанбай батыра, 167, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 27,
+    "area": 108,
+    "rooms": 1,
+    "address": "ул. Сыганак, 169, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 28,
+    "area": 78,
+    "rooms": 4,
+    "address": "ул. Абылай хана, 79, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 29,
+    "area": 115,
+    "rooms": 5,
+    "address": "ул. Кенесары, 174, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 30,
+    "area": 108,
+    "rooms": 1,
+    "address": "ул. Абылай хана, 44, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 31,
+    "area": 111,
+    "rooms": 3,
+    "address": "ул. Бухар жырау, 134, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 32,
+    "area": 97,
+    "rooms": 4,
+    "address": "ул. Кабанбай батыра, 164, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 33,
+    "area": 78,
+    "rooms": 2,
+    "address": "ул. Желтоксан, 149, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 34,
+    "area": 50,
+    "rooms": 1,
+    "address": "ул. Кабанбай батыра, 188, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 35,
+    "area": 119,
+    "rooms": 4,
+    "address": "ул. Сейфуллина, 173, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 36,
+    "area": 94,
+    "rooms": 3,
+    "address": "ул. Бейбітшілік, 166, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 37,
+    "area": 118,
+    "rooms": 1,
+    "address": "ул. Желтоксан, 176, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 38,
+    "area": 45,
+    "rooms": 3,
+    "address": "ул. Шарбақты, 27, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 39,
+    "area": 115,
+    "rooms": 4,
+    "address": "ул. Есиль, 121, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 40,
+    "area": 61,
+    "rooms": 5,
+    "address": "ул. Құрманғазы, 24, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 41,
+    "area": 53,
+    "rooms": 5,
+    "address": "ул. Абай, 143, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 42,
+    "area": 56,
+    "rooms": 5,
+    "address": "ул. Мәңгілік Ел, 143, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 43,
+    "area": 97,
+    "rooms": 1,
+    "address": "ул. Кенесары, 122, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 44,
+    "area": 79,
+    "rooms": 1,
+    "address": "ул. Сарыарка, 50, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 45,
+    "area": 55,
+    "rooms": 2,
+    "address": "ул. Желтоксан, 90, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 46,
+    "area": 89,
+    "rooms": 3,
+    "address": "ул. Желтоксан, 111, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 47,
+    "area": 87,
+    "rooms": 3,
+    "address": "ул. Ақсай, 73, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 48,
+    "area": 71,
+    "rooms": 2,
+    "address": "ул. Желтоксан, 12, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 49,
+    "area": 55,
+    "rooms": 5,
+    "address": "ул. Бейбітшілік, 108, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 50,
+    "area": 77,
+    "rooms": 4,
+    "address": "ул. Орынбор, 67, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 51,
+    "area": 41,
+    "rooms": 2,
+    "address": "ул. Тәшенов, 109, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 52,
+    "area": 39,
+    "rooms": 1,
+    "address": "ул. Мәңгілік Ел, 154, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 53,
+    "area": 97,
+    "rooms": 2,
+    "address": "ул. Сыганак, 113, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 54,
+    "area": 54,
+    "rooms": 2,
+    "address": "ул. Бейбітшілік, 159, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 55,
+    "area": 65,
+    "rooms": 3,
+    "address": "ул. Құрманғазы, 42, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 56,
+    "area": 108,
+    "rooms": 2,
+    "address": "ул. Бухар жырау, 170, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 57,
+    "area": 46,
+    "rooms": 5,
+    "address": "ул. Желтоксан, 182, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 58,
+    "area": 52,
+    "rooms": 1,
+    "address": "ул. Абай, 82, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 59,
+    "area": 95,
+    "rooms": 4,
+    "address": "ул. Сыганак, 29, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 60,
+    "area": 56,
+    "rooms": 1,
+    "address": "ул. Сейфуллина, 28, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 61,
+    "area": 107,
+    "rooms": 3,
+    "address": "ул. Құрманғазы, 199, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 62,
+    "area": 116,
+    "rooms": 4,
+    "address": "ул. Орынбор, 117, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 63,
+    "area": 60,
+    "rooms": 3,
+    "address": "ул. Кабанбай батыра, 132, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 64,
+    "area": 65,
+    "rooms": 2,
+    "address": "ул. Сарыарка, 154, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 65,
+    "area": 64,
+    "rooms": 1,
+    "address": "ул. Туран, 92, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 66,
+    "area": 89,
+    "rooms": 2,
+    "address": "ул. Жангельдина, 69, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 67,
+    "area": 54,
+    "rooms": 4,
+    "address": "ул. Мәңгілік Ел, 12, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 68,
+    "area": 35,
+    "rooms": 4,
+    "address": "ул. Орынбор, 124, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 69,
+    "area": 120,
+    "rooms": 4,
+    "address": "ул. Туран, 65, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 70,
+    "area": 101,
+    "rooms": 5,
+    "address": "ул. Мәңгілік Ел, 37, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 71,
+    "area": 71,
+    "rooms": 5,
+    "address": "ул. Мәңгілік Ел, 51, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 72,
+    "area": 92,
+    "rooms": 5,
+    "address": "ул. Абай, 31, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 73,
+    "area": 56,
+    "rooms": 5,
+    "address": "ул. Есиль, 41, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 74,
+    "area": 103,
+    "rooms": 1,
+    "address": "ул. Орынбор, 146, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 75,
+    "area": 83,
+    "rooms": 2,
+    "address": "ул. Құрманғазы, 119, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 76,
+    "area": 100,
+    "rooms": 5,
+    "address": "ул. Кабанбай батыра, 55, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 77,
+    "area": 105,
+    "rooms": 5,
+    "address": "ул. Сейфуллина, 189, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 78,
+    "area": 75,
+    "rooms": 5,
+    "address": "ул. Шарбақты, 12, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 79,
+    "area": 78,
+    "rooms": 4,
+    "address": "ул. Туран, 112, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 80,
+    "area": 80,
+    "rooms": 3,
+    "address": "ул. Бухар жырау, 76, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 81,
+    "area": 110,
+    "rooms": 1,
+    "address": "ул. Абай, 197, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 82,
+    "area": 39,
+    "rooms": 4,
+    "address": "ул. Бухар жырау, 155, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 83,
+    "area": 97,
+    "rooms": 3,
+    "address": "ул. Сейфуллина, 53, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 84,
+    "area": 61,
+    "rooms": 2,
+    "address": "ул. Мәңгілік Ел, 63, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 85,
+    "area": 48,
+    "rooms": 2,
+    "address": "ул. Абылай хана, 27, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 86,
+    "area": 39,
+    "rooms": 4,
+    "address": "ул. Орынбор, 86, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 87,
+    "area": 54,
+    "rooms": 5,
+    "address": "ул. Абылай хана, 185, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 88,
+    "area": 57,
+    "rooms": 5,
+    "address": "ул. Ақсай, 93, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 89,
+    "area": 98,
+    "rooms": 3,
+    "address": "ул. Кенесары, 142, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 90,
+    "area": 118,
+    "rooms": 5,
+    "address": "ул. Бухар жырау, 115, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  },
+  {
+    "id": 91,
+    "area": 50,
+    "rooms": 1,
+    "address": "ул. Тәшенов, 20, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 92,
+    "area": 42,
+    "rooms": 3,
+    "address": "ул. Абылай хана, 44, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 93,
+    "area": 113,
+    "rooms": 5,
+    "address": "ул. Абай, 198, Астана, Казахстан",
+    "image": "https://static.bn.ru/uploads/gazeta/2023_02/16763675551145460918b.jpg"
+  },
+  {
+    "id": 94,
+    "area": 119,
+    "rooms": 1,
+    "address": "ул. Сарыарка, 31, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 95,
+    "area": 120,
+    "rooms": 4,
+    "address": "ул. Кенесары, 34, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 96,
+    "area": 63,
+    "rooms": 1,
+    "address": "ул. Абай, 34, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQuiJSU814pbOzsw02_5tW5OcdoiIi2vTEt9A&s"
+  },
+  {
+    "id": 97,
+    "area": 120,
+    "rooms": 4,
+    "address": "ул. Сарыарка, 64, Астана, Казахстан",
+    "image": "https://www.podushka.net/uploads/interer-kvartiry-v-sovremennom-stile.jpg"
+  },
+  {
+    "id": 98,
+    "area": 115,
+    "rooms": 1,
+    "address": "ул. Желтоксан, 31, Астана, Казахстан",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoDmXPB0qTVUJH1nJvJQD1aqGcR7CUcQeDBA&s"
+  },
+  {
+    "id": 99,
+    "area": 36,
+    "rooms": 1,
+    "address": "ул. Шарбақты, 3, Астана, Казахстан",
+    "image": "https://lh7-rt.googleusercontent.com/docsz/AD_4nXcXyZ_dOWf5xJCX_3QfVNiNs1YEjqKPv7-Da_YMzCcWXeVUUuj5GkmV_UaRuNexyWX5-99W_EBu2S6jVJb9siSE_OAKNDrZ4tUvqIYWgmuL8OmRUM2M8va6Dcwsss60IIEJKxboPJiLy7ifsVnVEZ35ozS6P261coBHJvjrflIEJ173vz0a23Q?key=maGlTezGJ6sKzfb7PV9pBA"
+  },
+  {
+    "id": 100,
+    "area": 74,
+    "rooms": 2,
+    "address": "ул. Кенесары, 154, Астана, Казахстан",
+    "image": "https://atrixgroup.kz/upload/iblock/8a4/08c8rktsk6xsxfzfae7vp4aq6mv9xswm.png"
+  }
+]

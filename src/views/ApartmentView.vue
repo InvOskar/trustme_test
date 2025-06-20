@@ -1,28 +1,24 @@
 <template>
-  <div class="home-view">
-    <TheHeader />
+  <div class="apartment-view">
     <ListOfApartments :list="sortedList" />
   </div>
 </template>
 
 <script>
+import TheHeader from "@/components/TheHeader.vue";
 import ListOfApartments from "@/components/ListOfApartments.vue";
 import appartments from "@/apartments.json";
-
 export default {
-  components: { ListOfApartments },
+  components: { TheHeader, ListOfApartments },
   data() {
     return {
-      appartments: [],
+      appartment: [],
     };
   },
-  computed: {
-    sortedList() {
-      return this.appartments;
-    },
-  },
   mounted() {
-    this.appartments = appartments;
+    this.appartment = appartments;
   },
 };
 </script>
+
+<style lang="scss" scoped></style>
