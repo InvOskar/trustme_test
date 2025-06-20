@@ -9,7 +9,7 @@
           placeholder="Адрес"
           style="width: 400px"
           size="large"
-          @input="emitFilters"
+          @search="emitFilters"
         />
       </div>
     </div>
